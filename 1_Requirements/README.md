@@ -38,3 +38,9 @@
     * Build - Windows or Linux
     * Analysis
     * Code Quality - Online Tools
+
+* Requirements
+  * Certificates
+  * System Setup
+  * HackerEarth
+  * Project Implementation
