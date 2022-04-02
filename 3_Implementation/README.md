@@ -5,8 +5,5 @@ Codacy Bage :
 
 
 Codiga Badges :
-https://api.codiga.io/project/32432/score/svg
+https://api.codiga.io/project/32432/score/svg \n
 https://api.codiga.io/project/32432/status/svg
-
-
-https://api.codiga.io/project/32432/score/svg
