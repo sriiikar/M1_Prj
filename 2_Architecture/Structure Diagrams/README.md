@@ -1,3 +1,3 @@
 # Structure Diagrams
 
-## Add all the Structure Diagrams implemented
+## Flowchart explaining the working of the game is uploaded for reference
