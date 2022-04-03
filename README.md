@@ -7,3 +7,15 @@ Codacy Bage :
 Codiga Badges :
 https://api.codiga.io/project/32432/score/svg ||
 https://api.codiga.io/project/32432/status/svg
+
+
+
+Codacy badge Codacy Badge
+
+Codiga badge Codiga Badge
+
+Build on Linux Build CI - Linux
+
+Build on Windows Build CI - Windows
+
+CPP check Analysis
